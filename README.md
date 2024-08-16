@@ -1,4 +1,4 @@
-# Tip and Order Calculator
+# Tip and Consumption Calculator
 
 A React application for calculating tips and managing orders. This project demonstrates the use of React components,
 `useReducer` for state management, and TypeScript for type safety.
